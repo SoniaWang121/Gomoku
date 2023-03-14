@@ -1,0 +1,30 @@
+who
+B
+place Z1
+Invalid coordinate
+who
+B
+place A1
+who
+W
+place A1
+Occupied coordinate
+who
+W
+place B122
+Invalid coordinate
+who
+W
+place B1
+who
+B
+place A2
+place B2
+place A3
+place B3
+place A4
+place B4
+place A5
+Black wins!
+A1B1A2B2A3B3A4B4A5
+Thank you for playing!
