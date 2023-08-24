@@ -1,1 +1,1 @@
-# usyd-comp2017
+Gomoku written in C language.
