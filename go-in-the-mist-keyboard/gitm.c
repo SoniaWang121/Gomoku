@@ -1,7 +1,3 @@
-// name: WEIJIE LIAO
-// unikey:  wlia3211
-// SID: 520299751
-
     // code here
     #include <stdio.h>
     #include <string.h>
